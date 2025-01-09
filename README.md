@@ -12,3 +12,7 @@ A userChrome.css file for firefox that implements auto-hide for tabs and bookmar
 5. copy chrome folder to the profile directory
 6. done.  
 
+
+
+https://github.com/user-attachments/assets/a2694491-24e4-420a-9f18-82febaba3c26
+
