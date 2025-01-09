@@ -1,7 +1,7 @@
 # minimal-firefox
 
 A userChrome.css file for firefox that implements auto-hide for tabs and bookmarks row
-
+https://github.com/user-attachments/assets/a2694491-24e4-420a-9f18-82febaba3c26
 
 # installation:
 
@@ -14,5 +14,4 @@ A userChrome.css file for firefox that implements auto-hide for tabs and bookmar
 
 
 
-https://github.com/user-attachments/assets/a2694491-24e4-420a-9f18-82febaba3c26
 
