@@ -78,8 +78,8 @@ See the above repository for updates as well as full license text. */
 See the above repository for updates as well as full license text. */
 
 #PersonalToolbar{
-    --uc-bm-height: 20px; /* Might need to adjust if the toolbar has other buttons */
-    --uc-bm-padding: 4px; /* Vertical padding to be applied to bookmarks */
+    --uc-bm-height: 30px; /* Might need to adjust if the toolbar has other buttons */
+    --uc-bm-padding: 0px; /* Vertical padding to be applied to bookmarks */
     --uc-autohide-toolbar-delay: 0ms; /* The toolbar is hidden after 0.6s */
     
     /* 0deg = "show" ; 90deg = "hide" ;  Set the following to control when bookmarks are shown */
