@@ -2,7 +2,7 @@
 
 ## minimal-firefox
 
-#### A userChrome.css file for firefox that removes window control buttons and implements auto-hide for tabs and bookmarks row
+#### A userChrome.css file for firefox that removes window control buttons and implements auto-hide for bookmarks row
 
 https://github.com/user-attachments/assets/0978235c-bea8-43fd-9e05-6572ba4afbbe
 
