@@ -1,4 +1,4 @@
-## This version only work on firefox nightly with vertical tabs toggled on
+## This version only works on firefox nightly with vertical tabs toggled on
 
 ## minimal-firefox
 
