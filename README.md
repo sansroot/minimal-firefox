@@ -1,3 +1,5 @@
+# THIS VERSION IN INTENDED TO BE USED ONLY WITH NIGHTLY VERSION, WITH VERTICAL TABS TOGGLED ON
+
 ## minimal-firefox
 
 #### A userChrome.css file for firefox that implements auto-hide for tabs and bookmarks row
