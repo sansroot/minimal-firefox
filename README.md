@@ -1,4 +1,4 @@
-# THIS VERSION IN INTENDED TO BE USED ONLY WITH NIGHTLY VERSION, WITH VERTICAL TABS TOGGLED ON
+## This version only work on firefox nightly with vertical tabs toggled on
 
 ## minimal-firefox
 
