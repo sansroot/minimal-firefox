@@ -9,27 +9,7 @@ See the above repository for updates as well as full license text. */
     --uc-icon-glow-hover-primary: #cba6f7;
     --uc-icon-glow-hover-secondary: #cba6f7;
   }
-  /* Make backgrounds transparent */
-  .titlebar-buttonbox-container{ display:none }
-  .close-icon,
-  .urlbar-icon,
-  .urlbar-icon-wrapper,
-  toolbar .toolbarbutton-1,
-  #tabbrowser-tabs toolbarbutton,
-  toolbar toolbarbutton > .toolbarbutton-icon,
-  toolbar toolbarbutton > .toolbarbutton-badge-stack,
-  .titlebar-button,
-  #identity-box,
-  .identity-box-button,
-  #tracking-protection-icon-container,
-  .findbar-textbox~toolbarbutton,
-  toolbarbutton.scrollbutton-up,
-  toolbarbutton.scrollbutton-down,
-  toolbarbutton#scrollbutton-up,
-  toolbarbutton#scrollbutton-down{
-    background-color: transparent !important;
-    border-color: transparent !important;
-  }
+
   
   /* Glow effects on hover */
   .close-icon:hover,
@@ -78,7 +58,7 @@ See the above repository for updates as well as full license text. */
 See the above repository for updates as well as full license text. */
 
 #PersonalToolbar{
-    --uc-bm-height: 30px; /* Might need to adjust if the toolbar has other buttons */
+    --uc-bm-height: 25px; /* Might need to adjust if the toolbar has other buttons */
     --uc-bm-padding: 0px; /* Vertical padding to be applied to bookmarks */
     --uc-autohide-toolbar-delay: 0ms; /* The toolbar is hidden after 0.6s */
     
